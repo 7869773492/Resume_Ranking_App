@@ -1,0 +1,1 @@
+"streamlit\nscikit-learn\nnltk\nPyPDF2\npandas" 
